@@ -1,4 +1,4 @@
-# Data Cleaning & Transformation Approaches
+# Data Cleaning & Transformation Approaches 
 
 This document outlines the key data cleaning and transformation techniques applied in this project prior to inserting data into the Silver Layer of the data lakehouse.
 
